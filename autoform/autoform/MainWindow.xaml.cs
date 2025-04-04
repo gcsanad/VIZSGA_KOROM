@@ -56,4 +56,14 @@ public partial class MainWindow : Window
             lbAutoAdatok.Items.Add($"{item.Marka} - {item.Modell}");
         }   
     }
+
+    private void btnKilep_Click(object sender, RoutedEventArgs e)
+    {
+        var answer = MessageBox.Show("Biztosan ki akar lépni?", "?", MessageBoxButton.YesNo, MessageBoxImage.Question);
+        if (answer == MessageBoxResult.Yes)
+        {
+            Close();
+        }
+
+    }
 }

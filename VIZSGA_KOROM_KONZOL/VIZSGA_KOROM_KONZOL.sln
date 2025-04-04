@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIZSGA_KOROM_KONZOL", "VIZSGA_KOROM_KONZOL\VIZSGA_KOROM_KONZOL.csproj", "{B7CE7996-F8DA-489F-8E0F-332CB8CA1900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CE7996-F8DA-489F-8E0F-332CB8CA1900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE7996-F8DA-489F-8E0F-332CB8CA1900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE7996-F8DA-489F-8E0F-332CB8CA1900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE7996-F8DA-489F-8E0F-332CB8CA1900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01995DDC-3452-46CD-9F17-9D2890BD0F8F}
+	EndGlobalSection
+EndGlobal
